@@ -3,7 +3,7 @@
 A Python application that tracks live Gold 22K prices and sends email notifications via Gmail.
 
 ## Features
-
+£££ksdvbkawvdkfvskfwakfbd
 ✨ **Live Price Tracking**
 - Fetches real-time Gold 22K prices from Metals API
 - Stores historical data in SQLite database
